@@ -12,7 +12,7 @@ This project utilises Netflix movies and shows database and solves some requirem
 5) Most content was added in 2019 where the total content crossed 2000 that had 71% Movies and 29% TV shows.
 6) Content with genres Dramas, Documentaries, Comedies, are the most content added to Netflix, while content with International Movies, Children & Family Movies are the fastest growing.
 
-## Reccomendations:
+## Recommendations:
 1) Netflix should enrich the data by adding contry name for the 10% content missing country names, as it would help target audiences for those countries.
 2) Seems the COVID pandemic resulted in Netflix adding more content in 2019
 3) International Movies, Children & Family Movies are growing genres that can help viewership growth along with more popular content on Dramas, Documentaries, and Comedies.
